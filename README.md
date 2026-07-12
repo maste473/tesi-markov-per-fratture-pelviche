@@ -20,7 +20,6 @@ Il lavoro è strutturato in quattro fasi principali:
 *   `tesi_code.py`: Script Python principale per il pre-processing, la selezione LASSO e il calcolo delle matrici di transizione.
 *   `requirements.txt`: Elenco delle librerie necessarie per l'esecuzione.
 *   `/grafici`: Cartella contenente i grafici prodotti (Heatmap, Boxplot, Curve di Rischio).
-*   `data_sample.csv`: (Esempio) Struttura dati richiesta per far girare il modello.
 
 ## Requisiti
 Per eseguire il codice è necessario Python 3.9+ e le seguenti librerie:
