@@ -6,4 +6,8 @@ Università: Sapienza University of Rome
 Relatore: Marco Isopi
 Data: Luglio 2026
 
-# A
+## Abstact
+
+## Metodologia
+
+## 
